@@ -1,6 +1,5 @@
 # Datavisualization
-
-##data visualization with python
+data visualization with python
 
 This repository is related to data visualization and provides a simple visualization of the retrieved data. 
 
